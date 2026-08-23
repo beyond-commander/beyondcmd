@@ -16,6 +16,12 @@ Rewrite to Rust
 ## Android
 
 ![Android](screenshots/Beyond-Commadner_Android_Alpha2.jpg)
+![Android](screenshots/Beyond-Commander_Android_mobile_1.png)
+![Android](screenshots/ Beyond-Commander_Android_mobile_2.png)
+![Android](screenshots/Beyond-Commander_Android_Tablet_1.png)
+![Android](screenshots/Beyond-Commander_Android_Tablet_2.png) 
+![Android](screenshots/Beyond-Commander_Android_Tablet_3.png)
+
 
 ## Windows
 
