@@ -5,7 +5,8 @@ BC is a true cross-platform Total Commander alternative based on Qt6/C++
 Rewrite to Rust
 
 # Phases
-- Beta 1 (Android version available for free)
+- Beta 1 (Android version available
+- Beta 2 (Android version available for free)
 
 # Screenshots
 
