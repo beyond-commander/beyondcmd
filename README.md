@@ -1,12 +1,8 @@
-# beyondcmd
+# BeyondCMD for Linux
 BC is a true cross-platform Total Commander alternative based on Qt6/C++
 
 # Plan
 Rewrite to Rust
-
-# Phases
-- Beta 1 (Android version available for free)
-- Beta 2 (Android version available for free)
 
 # Screenshots
 
@@ -22,7 +18,6 @@ Rewrite to Rust
 ![Android](screenshots/Beyond-Commander_Android_Tablet_1.png)
 ![Android](screenshots/Beyond-Commander_Android_Tablet_2.png) 
 ![Android](screenshots/Beyond-Commander_Android_Tablet_3.png)
-
 
 ## Windows
 
